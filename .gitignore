@@ -1,0 +1,19 @@
+# IDE
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+dist/
+build/
+*.egg-info/
+
+# Node (if any)
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
