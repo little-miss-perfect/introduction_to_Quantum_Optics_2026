@@ -1,0 +1,2 @@
+Tiempo de Prueba       : 500000.0 us
+Ventana de Coincidencia: 20 ns
